@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Pre-final year Engineering student at Birla Institute of Technology, Mesra.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Muskan Gupta. These are the things you need to know about me(it's fine if you don't want to know):
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Pursuing BE in Computer Science
+- Love to learn new things and remain curious
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, there is not much to tell about me. 
